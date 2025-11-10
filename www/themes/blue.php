@@ -1,0 +1,1 @@
+<h3 style="color:blue;">Blue Theme Loaded</h3>
